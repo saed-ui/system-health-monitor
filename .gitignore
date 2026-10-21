@@ -1,0 +1,13 @@
+# log output, no need to push my own stats
+health_log.csv
+*.csv
+
+# python junk
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# os junk
+.DS_Store
+Thumbs.db
